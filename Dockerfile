@@ -8,7 +8,7 @@ FROM node:lts-alpine3.16
 RUN yarn create vite todo-app --template vue
 
 # カレントワーキングディレクトリ
-WORKDIR /app/
+WORKDIR /app/todo-app
 
 # # プロジェクトの依存ライブラリをインストールする
 # RUN yarn install
