@@ -1,0 +1,11 @@
+{
+    "vetur.completion.scaffoldSnippetSources": {
+
+        "workspace": "💼",
+        "user": "🗒️",
+        "vetur": "✌"
+    },
+    "vetur.useWorkspaceDependencies": true,
+    //型の情報を与えるには以下のexperimentalの設定が必要
+    "vetur.experimental.templateInterpolationService": true,
+}
