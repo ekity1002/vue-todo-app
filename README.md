@@ -1,3 +1,3 @@
-# my-portfolio
+# TODO-APP
 
-### 工事中...
+簡易的なTODOリスト作成アプリ
